@@ -1,8 +1,16 @@
 # CV-CFUNet
 The implementation of CV-CFUNet using tensorflow. (CV-CFUNet: Complex-Valued Channel Fusion UNet for Refocusing of Ship Targets in SAR Images)
 
+paper URL：https://ieeexplore.ieee.org/document/10145003
+
 ************************************************************
-The full code will be available when the paper is published.
+requirements:
+  tensorflow ---> 1.10.0
+  cudatoolkit --> 9.0
+  cudnn --------> 7.1.4
+  numpy --------> 1.15.4
+  scipy --------> 1.5.2
+  h5py ---------> 2.10.0
 ************************************************************
 
 Abstract:
